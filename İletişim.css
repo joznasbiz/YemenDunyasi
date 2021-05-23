@@ -1,0 +1,87 @@
+body{
+    background-image: url(Images/monte-carlo-45159-2560x1600.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contect {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header{
+    width: 1024px;
+    height: 118px;
+
+}
+header img {
+    max-height: 165px;
+    max-width: 165px;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.514);
+    width: 1024px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 14px;
+    text-align: center;
+}
+
+nav a{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+}
+
+main{ 
+    width: 1024px;
+    height: 400px;
+}
+
+.map{
+    margin: 10px;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+}
+
+.har{
+    width: 400px;
+    height: 300px;
+    margin-left: 40px;
+}
+
+.data{
+    width: 350px;
+    height: 100px;
+    padding-left: 50px;
+
+    background-color: rgba(0, 0, 0, 0.514);
+    border: 1px solid black;
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: 50px;
+    padding-top: 80px;
+
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.514);
+    width: 1024px;
+    height: 80px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 23px;
+    color: rgba(255, 255, 255, 0.562);
+    padding-top: 23px;
+}
